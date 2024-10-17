@@ -1,0 +1,14 @@
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\bin\Debug\net8.0\TDEQuartoze.exe
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\bin\Debug\net8.0\TDEQuartoze.deps.json
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\bin\Debug\net8.0\TDEQuartoze.runtimeconfig.json
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\bin\Debug\net8.0\TDEQuartoze.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\bin\Debug\net8.0\TDEQuartoze.pdb
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\TDEQuartoze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\TDEQuartoze.AssemblyInfoInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\TDEQuartoze.AssemblyInfo.cs
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\TDEQuartoze.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\TDEQuartoze.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\refint\TDEQuartoze.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\TDEQuartoze.pdb
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\TDEQuartoze.genruntimeconfig.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\TDEQuartoze\obj\Debug\net8.0\ref\TDEQuartoze.dll
